@@ -1,16 +1,22 @@
-# [Web Development]
+# [ Web Development ]
 
-## *Front End*
+https://github.com
+
+[GitHub](https://github.com)
+
+![GitHub Logo](/images/logo.png)
+
+## **Front End**
   ### Linux & Windows:
-      - HTML5
-      - CSS
-      - Javascript
+      * HTML5
+      * CSS
+      * Javascript
 
-## *Back End*
+## **Back End**
   ### Linux:
-      - MySQL
-      - PHP
+      1. MySQL
+      1. PHP
   
   ### Windows:
-      - SQL
-      - C#
+      1. SQL
+      1. C#
