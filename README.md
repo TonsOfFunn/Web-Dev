@@ -15,8 +15,12 @@ https://github.com
 ## **Back End**
   ### Linux:
       * MySQL
+      * PostgreSQL
       * PHP
+      * Python
+      * Nginx
   
   ### Windows:
       * SQL
       * C#
+      * ASP.NET
