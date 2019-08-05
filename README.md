@@ -1,2 +1,16 @@
-# W3b_D3v3l0p3m3n7
-Front_End_&amp;_Back_End
+# Web Development
+
+## Front End:
+  ### Linux & Windows
+      HTML5
+      CSS
+      Javascript
+
+## Back End:
+  ### Linux:
+      MySQL
+      PHP
+  
+  ### Windows:
+      SQL
+      C#
