@@ -14,9 +14,9 @@ https://github.com
 
 ## **Back End**
   ### Linux:
-      1. MySQL
-      1. PHP
+      * MySQL
+      * PHP
   
   ### Windows:
-      1. SQL
-      1. C#
+      * SQL
+      * C#
