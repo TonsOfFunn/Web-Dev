@@ -1,16 +1,16 @@
-# Web Development
+# [Web Development]
 
-## Front End:
-  ### Linux & Windows
-      HTML5
-      CSS
-      Javascript
+## *Front End*
+  ### Linux & Windows:
+      - HTML5
+      - CSS
+      - Javascript
 
-## Back End:
+## *Back End*
   ### Linux:
-      MySQL
-      PHP
+      - MySQL
+      - PHP
   
   ### Windows:
-      SQL
-      C#
+      - SQL
+      - C#
